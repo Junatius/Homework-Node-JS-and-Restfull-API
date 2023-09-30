@@ -10,7 +10,6 @@ exports.rectangleAreaAndPerimeter = function(rectangleLength, rectangleWidth) {
     const area = rectangleWidth * rectangleLength;
     const perimeter = (2*rectangleWidth) + (2*rectangleLength);
     console.log(
-        `A rectangle with a length of ${rectangleLength} and a width of ${rectangleWidth} cm 
-        has an Area of ${area} cm² and a perimeter of ${perimeter} cm.\n`
+        `A rectangle with a length of ${rectangleLength} and a width of ${rectangleWidth} cm has an Area of ${area} cm² and a perimeter of ${perimeter} cm.\n`
     )
 }
