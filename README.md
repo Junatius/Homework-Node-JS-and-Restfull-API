@@ -6,3 +6,6 @@ persegi dan persegi panjang. Setelah membuat module, panggil di dalam file soal1
 
 Soal 2 : Ada data sample disini. Buat sebuah file soal2.js yang akan melakukan proses 
 penulisan file log sampe kedalam file log.txt.
+
+# Notes
+Jalankan `npm install` terlebih dahulu
